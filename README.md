@@ -5,7 +5,7 @@ A password Generator for Gnome Extension Argos
 The generated password contains à least on character of category selected.
 The program generate password by random access
 At the end the password is shuffled.
-Each time the passwod is selected (clic), it is copied in clipboard and en new is generated.
+Each time the passwod is selected (clic), it is copied in clipboard and a new one is generated.
 
 ## Installation
 This repository has only one file: PwdGen.sh.
