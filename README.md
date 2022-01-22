@@ -8,7 +8,7 @@ At the end the password is shuffled.
 Each time the passwod is selected (clic), it is copied in clipboard and a new one is generated.
 
 ## Installation
-This repository has only one file: PwdGen.sh.
+This repository has only one file: PwdGen.sh .
 This file must be installed in standard Argos folder:
      $HOME/.config/argos
      with correct righs: chmod +x PwdGen.sh
